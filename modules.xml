@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/burgers_intensive.iml" filepath="$PROJECT_DIR$/burgers_intensive.iml" />
+      <module fileurl="file://burgers_intensive.iml" filepath="burgers_intensive.iml" />
     </modules>
   </component>
 </project>
